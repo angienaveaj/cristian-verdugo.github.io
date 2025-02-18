@@ -20,6 +20,8 @@ header {
     object-position: center;
     border: 4px solid #fff;
     margin-top: 10px;
+    position: relative;
+    top:75px;
 }
 
 /* Estilos para secciones */
