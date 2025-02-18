@@ -54,3 +54,8 @@ footer {
     object-position: center; /* Asegura que la imagen esté centrada dentro del contenedor */
     margin: 10px; /* Ajusta según necesidad */
 }
+
+.list-group-item {
+    box-shadow: 3px 3px 10px 1px rgba(158, 158, 158, 0.1);
+    border: 1px solid rgba(158, 158, 158, 0.1) !important;
+}
